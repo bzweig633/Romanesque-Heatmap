@@ -1,8 +1,8 @@
-# Leaflet Heatmap template
+# Map of Romanesque Architecture from Wikidata using Leaflet Heatmap template
 This map uses a [Leaflet.Heat](https://github.com/Leaflet/Leaflet.heat) plugin
 to transform points into a heat layer.
 
-## Demo
+## Based on:
 https://handsondataviz.github.io/leaflet-heatmap
 
 For more information on customization, see [Leaflet documentation](https://leafletjs.com/).
